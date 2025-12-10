@@ -1,0 +1,9 @@
+ *** Starting Verify Antenna (MEM: 1407.4) ***
+
+Report File: Kernel.verify_antenna.rpt
+  VERIFY Antenna ...... Starting Verification
+  VERIFY Antenna ...... Using new threading
+Verification Complete: 0 Violations
+ *** End Verify Antenna (CPU: 0:00:00.1  ELAPSED TIME: 0.00  MEM: -10.0M) ***
+
+******* DONE VERIFY ANTENNA ********
